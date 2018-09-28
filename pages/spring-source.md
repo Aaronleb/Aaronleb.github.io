@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 记录生活的感悟
-titlebar: life
+title: Spring源码
+titlebar: spring-source
 subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 你的生活有什么故事？
 menu: life
 css: ['blog-page.css']
-permalink: /life
+permalink: /spring-source
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /life
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='life' %}
+                {% if post.category=='spring-source' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

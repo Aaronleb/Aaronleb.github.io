@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 记录生活的感悟
-titlebar: life
+title: java基础
+titlebar: java-base
 subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 你的生活有什么故事？
 menu: life
 css: ['blog-page.css']
-permalink: /life
+permalink: /java-base
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /life
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='life' %}
+                {% if post.category=='java-base' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

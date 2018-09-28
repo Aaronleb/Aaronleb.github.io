@@ -62,12 +62,12 @@ navs:
     label: Home
 
   -
-    href: /spring-boot.html
-    label: Spring-Boot
+    href: /java-base.html
+    label: JAVA基础
 
   -
-    href: /spring-cloud.html
-    label: Spring-Cloud
+    href: /spring-source.html
+    label: Spring源码
 
   -
     href: /archives.html
