@@ -177,7 +177,7 @@ comments_provider: gitalk
 #        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: aaronleb
+    owner: Aaronleb
     repo: blog-comments
     clientID: fdf12052932c162e3a20
     clientSecret: dc9f2dc30bd7289997249b500a3dac839f39ff10
