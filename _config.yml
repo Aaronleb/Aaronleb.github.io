@@ -62,8 +62,8 @@ navs:
     label: Home
 
   -
-    href: /java-base.html
-    label: JAVA基础
+    href: /mysql.html
+    label: Mysql
 
   -
     href: /spring-source.html
